@@ -1,0 +1,5 @@
+package spaceInvaders;
+
+class CharacterTest {
+	
+}
